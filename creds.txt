@@ -1,2 +1,0 @@
-username=ktj01
-password=jkt01
